@@ -5,4 +5,8 @@
           <age>37</age>
           <pets>0</pets>
           <salary>500</salary>
+          <favorite movie>fantastic</favorite movie>
+         <favorite food>seafood</favorite food>
+         <favorite time>summer</favorite time>
+         <favorite country>Spain</avorite country>
   </about me>
