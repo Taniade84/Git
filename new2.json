@@ -2,9 +2,13 @@
 
 
 {
-Зинченко Татьяна Александровна
-37 лет
-нет
-500 y.e
+   "name": "Зинченко Татьяна Александровна",
+   "age":37 ,
+   "pets":"нет",
+   "salary":500 "y.e",
+   "favorite movie": "fantastic",
+   "favorite food": "seafood",
+   "favorite time": "summer",
+   "favorite country": "Spain"
 }
  
