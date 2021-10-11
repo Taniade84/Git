@@ -1,0 +1,2 @@
+
+Summary	Descriprion Steps to reproduce Severity Priority Reproducibility Symptom Workaround Attachment Status
